@@ -1,4 +1,5 @@
 THis is a file to record debug experience.
+
 ##1st bod
 1. transimission path seem could not pass.
     no siganal can be detect now.
