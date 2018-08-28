@@ -1,8 +1,7 @@
 THis is a file to record debug experience.
 
 ##1st bod
-1. transimission path seem could not pass.
-    no siganal can be detect now.
+1.Fine
 
 ##2nd bod
-1. transimission path have been pathed.
+1. Emission signal amplitude is low.
